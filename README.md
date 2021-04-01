@@ -20,8 +20,8 @@ do
 done
 ```
 
- License:
----------------
+ License
+---------
 License for the original [DiVOC Artwork](https://di.c3voc.de/hiddenservice:artwork):
 ```
 alles cool, aber steck dir keine Bohnen in die Ohren
