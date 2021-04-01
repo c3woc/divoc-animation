@@ -29,7 +29,7 @@ alles cool, aber steck dir keine Bohnen in die Ohren
 
 License for the animation, assets etc.
 
-[MIT License](LICENSE)
+[MIT License](LICENCE)
 ```
 Copyright (c) 2021 L3D <l3d@c3woc.de>
 ```
