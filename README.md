@@ -1,3 +1,5 @@
+[![MIT License](https://raw.githubusercontent.com/c3woc/divoc-animation/main/.github/license.svg?sanitize=true)](https://github.com/c3woc/divoc-animation/blob/main/LICENSE)
+
 C3WOC DiVOC Animation
 ========================
 
@@ -29,7 +31,7 @@ alles cool, aber steck dir keine Bohnen in die Ohren
 
 License for the animation, assets etc.
 
-[MIT License](LICENCE)
+[MIT License](LICENSE)
 ```
 Copyright (c) 2021 L3D <l3d@c3woc.de>
 ```
