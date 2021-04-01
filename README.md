@@ -22,6 +22,15 @@ do
 done
 ```
 
+### Turn PNG to MP4
+```
+ffmpeg -framerate 24 \
+  -pattern_type glob -i '*.png' \
+  -c:v libx264  -preset slow \
+  -crf 22 -pix_fmt yuv420p \
+  result.mp4
+```
+
  License
 ---------
 License for the original [DiVOC Artwork](https://di.c3voc.de/hiddenservice:artwork):
