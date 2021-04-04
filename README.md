@@ -31,6 +31,14 @@ ffmpeg -framerate 24 \
   result.mp4
 ```
 
+### Turn PNG into webm with alpha channel
+```
+ffmpeg -framerate 24 \
+  -pattern_type glob -i '*.png'
+  -pix_fmt yuva420p
+  result.webm
+```
+
  License
 ---------
 License for the original [DiVOC Artwork](https://di.c3voc.de/hiddenservice:artwork):
