@@ -34,8 +34,8 @@ ffmpeg -framerate 24 \
 ### Turn PNG into webm with alpha channel
 ```
 ffmpeg -framerate 24 \
-  -pattern_type glob -i '*.png'
-  -pix_fmt yuva420p
+  -pattern_type glob -i '*.png' \
+  -pix_fmt yuva420p \
   result.webm
 ```
 
