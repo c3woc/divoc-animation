@@ -5,6 +5,9 @@ C3WOC DiVOC Animation
 
 Visit [di.c3voc.de](https://di.c3voc.de) for more information about DiVOC.
 
+[![Render Result](https://raw.githubusercontent.com/c3woc/divoc-animation/main/cover.svg?sanitize=true)](https://youtu.be/DWGHC2K0uGA)
+You can View the Rendered Video at [YouTube](https://youtu.be/DWGHC2K0uGA).
+
 
  Tipps and Tricks
 ------------------
